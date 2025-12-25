@@ -24,8 +24,8 @@ body {
 
 h1 {
   font-size: 28px;
-  color: #1a5490;
-  border-bottom: 3px solid #1a5490;
+  color: #06c5cc;
+  border-bottom: 3px solid #06c5cc;
   padding-bottom: 10px;
   margin-bottom: 30px;
   text-align: center;
@@ -33,10 +33,10 @@ h1 {
 
 h2 {
   font-size: 20px;
-  color: #2a7bb8;
+  color: #069e9e;
   margin-top: 25px;
   margin-bottom: 15px;
-  border-left: 5px solid #2a7bb8;
+  border-left: 5px solid #069e9e;
   padding-left: 12px;
 }
 
@@ -74,7 +74,7 @@ table {
 }
 
 table th {
-  background-color: #1a5490;
+  background-color: #06c5cc;
   color: #fff;
   padding: 12px;
   text-align: left;
